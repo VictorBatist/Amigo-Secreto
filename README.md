@@ -2,14 +2,16 @@
 
 <h2 align='center'>Nesse repositorio você poderá baixar localmente essa aplicação para sortear o amigo secreto em seus eventos e confraternizações de final de ano</h2>
 
+![image](https://github.com/user-attachments/assets/fe6eec4f-7fb2-48f2-847a-16f519c0921f)
+
 <h3 align='center'>Sobre o Projeto</h3>
 <p align='center'>Essa é uma implementação tem cunho inteiramente educacional e serve como modo de aperfeiçomento em lógica de programação. 
 <br><br>É um desafio proposto pela Oracle Next Education (ONE) em parceria com a Alura tem com o objetivo principal criar uma alternativa para sortear um amigo secreto em confraternizações ou eventos, para que seja um sorteio de forma aleatoria.<br><br>Também é o modo dos alunos da ONE praticarem a logica de programação, seus conhecimento em JavaScript e em versionamento de codigos com Git e GitHub</p>
 
 <h3 align='center'>A implementação</h3>
 
-![image](https://github.com/user-attachments/assets/fe6eec4f-7fb2-48f2-847a-16f519c0921f)
 
+![gif animado](assets/videos/amigo-secreto.gif)
 
 
 <div align="center" style="display: inline_blocks">
